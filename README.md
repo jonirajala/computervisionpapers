@@ -5,54 +5,54 @@
 - **Impact**: Introduced CNNs, paving the way for modern deep learning applications in image processing.
 ![LeNet Training Loss](lenet/LeNet_loss.png)
 
-## 2. AlexNet (2012)
+## 2. SIFT (2004)
+- **Paper**: *Lowe, "Distinctive Image Features from Scale-Invariant Keypoints"*
+- **Impact**: Key algorithm for detecting and describing local features, widely used in object recognition and image matching.
+
+## 3. AlexNet (2012)
 - **Paper**: *Krizhevsky, Sutskever, Hinton, "ImageNet Classification with Deep Convolutional Neural Networks"*
 - **Impact**: Sparked the deep learning revolution by winning ImageNet 2012, popularizing CNNs with GPU acceleration.
 ![AlexNet Training Loss](alexnet/AlexNet_loss.png)
 
-## 3. VGGNet (2014)
+## 4. VGGNet (2014)
 - **Paper**: *Simonyan, Zisserman, "Very Deep Convolutional Networks for Large-Scale Image Recognition"*
 - **Impact**: Simplified deep networks by stacking 3x3 convolutions, influencing future architectures.
 
-## 4. ResNet (2015)
-- **Paper**: *He et al., "Deep Residual Learning for Image Recognition"*
-- **Impact**: Solved the vanishing gradient problem with residual connections, enabling much deeper networks.
-
-## 5. Faster R-CNN (2015)
-- **Paper**: *Ren et al., "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"*
-- **Impact**: Improved real-time object detection by integrating region proposals into the detection pipeline.
-
-## 6. YOLO (2016)
-- **Paper**: *Redmon et al., "You Only Look Once: Unified, Real-Time Object Detection"*
-- **Impact**: Introduced a fast, unified object detection model, enabling real-time detection applications.
-
-## 7. GAN (2014)
+## 5. GAN (2014)
 - **Paper**: *Goodfellow et al., "Generative Adversarial Nets"*
 - **Impact**: Revolutionized generative modeling, enabling the creation of highly realistic images.
 
-## 8. UNet (2015)
+## 6. ResNet (2015)
+- **Paper**: *He et al., "Deep Residual Learning for Image Recognition"*
+- **Impact**: Solved the vanishing gradient problem with residual connections, enabling much deeper networks.
+
+## 7. Faster R-CNN (2015)
+- **Paper**: *Ren et al., "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"*
+- **Impact**: Improved real-time object detection by integrating region proposals into the detection pipeline.
+
+## 8. YOLO (2016)
+- **Paper**: *Redmon et al., "You Only Look Once: Unified, Real-Time Object Detection"*
+- **Impact**: Introduced a fast, unified object detection model, enabling real-time detection applications.
+
+## 9. UNet (2015)
 - **Paper**: *Ronneberger et al., "U-Net: Convolutional Networks for Biomedical Image Segmentation"*
 - **Impact**: Standardized medical image segmentation, becoming a go-to model for biomedical applications.
 
-## 9. Vision Transformer (ViT) (2020)
-- **Paper**: *Dosovitskiy et al., "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"*
-- **Impact**: Adapted transformers to vision tasks, achieving state-of-the-art performance without CNN inductive biases.
-
-## 10. DeepLab (2017)
-- **Paper**: *Chen et al., "Rethinking Atrous Convolution for Semantic Image Segmentation"*
-- **Impact**: Introduced atrous convolutions and improved segmentation accuracy for dense prediction tasks.
-
-## 11. Neural Style Transfer (2015)
+## 10. Neural Style Transfer (2015)
 - **Paper**: *Gatys et al., "A Neural Algorithm of Artistic Style"*
 - **Impact**: Enabled artistic image transformations by applying the style of one image to another using CNNs.
+
+## 11. DeepLab (2017)
+- **Paper**: *Chen et al., "Rethinking Atrous Convolution for Semantic Image Segmentation"*
+- **Impact**: Introduced atrous convolutions and improved segmentation accuracy for dense prediction tasks.
 
 ## 12. Mask R-CNN (2017)
 - **Paper**: *He et al., "Mask R-CNN"*
 - **Impact**: Extended object detection to instance segmentation, providing both object bounding boxes and masks.
 
-## 13. SIFT (2004)
-- **Paper**: *Lowe, "Distinctive Image Features from Scale-Invariant Keypoints"*
-- **Impact**: Key algorithm for detecting and describing local features, widely used in object recognition and image matching.
+## 13. Vision Transformer (ViT) (2020)
+- **Paper**: *Dosovitskiy et al., "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"*
+- **Impact**: Adapted transformers to vision tasks, achieving state-of-the-art performance without CNN inductive biases.
 
 ## 14. Swin Transformer (2021)
 - **Paper**: *Liu et al., "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"*
